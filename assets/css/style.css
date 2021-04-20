@@ -1,0 +1,199 @@
+body {
+  font-family: "Lobster", cursive;
+  font-family: "Cabin", sans-serif;
+color:#373A3C;
+
+}
+
+.logo {
+  font-family: "Lobster", cursive;
+  font-size: 35px;
+}
+
+a.nav-link {
+font-size: 16px;
+color: #ffffff !important;
+font-family: "Cabin", sans-serif;
+font-weight: 400;
+
+  }
+
+
+h1{
+
+font-size: 2.5rem;
+font-weight: 700;
+color:#373A3C;
+
+}
+
+
+h2{
+font-size: 1.25rem;
+font-weight: 400;
+
+}
+
+
+h3{
+font-size:1.87rem;
+color: #ffffff;
+font-weight: 400;
+
+
+}
+
+
+h4{
+
+color:#373A3C;
+font-size: 1.25rem;
+font-weight:400;
+display: inline-block;
+border-bottom: 1px solid black;
+padding-bottom: 5px;
+}
+
+
+h5 {
+font-size:1.43 ;
+font-weight: 700;
+color:#373A3C;
+
+
+}
+
+h6{
+color:#3a3d3f;
+font-size: 1.5rem;
+font-weight:400;
+
+}
+
+p {
+font-size: 1rem;
+font-weight: 400;
+
+
+}
+  hr {
+  width: 100%;
+  height: 1px;
+  color: black;
+  background-color: black;
+  text-align: left;
+
+}
+.titulo-receta{
+
+font-size: 1.25rem;
+color: #373A3C;
+
+}
+
+.btn-outline-secondary {
+    border-color: #dddddd;
+}
+
+
+.tooltip {
+    font-size: 12px;
+
+} .hr-carrusel{
+  width:81%;
+  height: 1px;
+  color: black;
+  background-color: black;
+  text-align: left;
+
+}
+
+.logo {
+  font-family: "Lobster", cursive;
+  font-size: 40px;
+}
+
+.img-principal{
+width: 95%;
+
+}
+
+.espacio{
+
+padding-top: 110px;
+
+}
+
+.img-carrusel {
+max-width: 233px;
+
+
+}
+
+.carousel-indicators {
+top:180px;
+}
+
+.carousel-indicators li {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background-color: #373A3C;
+}
+
+.ingredientes li {
+  margin-left: -40px;
+  padding: 0;
+}
+
+li {
+color: #373A3C;
+font-weight: 400;
+font-family: cabin;
+font-size: 1rem;
+}
+
+.ingredientes li {
+  margin-left: -39px;
+}
+
+.preparacion li {
+  margin-left: -39px;
+}
+.card-text{
+font-size: 1rem;
+color: #373A3C;
+}
+
+.newsletter{
+background-color: #DC3545;
+
+}
+
+.boton-empezar {
+padding: 8px 80px;
+
+}
+
+.footer-fondo {
+background-color: #373A3C;
+
+}
+
+footer{
+    padding-top: 50px;
+        height: 120px;
+
+}
+
+.logo-footer {
+  font-family: "Lobster", cursive;
+  font-size: 35px;
+}
+
+ .texto2{
+font-size: 1.87rem;
+font-family: cabin;
+font-weight:400 ;
+
+ }
